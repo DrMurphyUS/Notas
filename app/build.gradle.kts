@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.drmurphyus.notas"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.drmurphyus.notas"
